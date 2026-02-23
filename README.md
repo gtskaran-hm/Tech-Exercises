@@ -1,1 +1,1 @@
-# MySQL Exercises
+# Programming Exercises
